@@ -1,0 +1,38 @@
+div{
+	font-family: cursive;
+	font-style: oblique;
+	font-size: large;;
+	margin-left: 10%;
+}
+
+img{
+	width:7cm;
+	height:7cm;
+	border-radius: 50%;
+}
+
+aside{
+	float:right;
+	width: 50%;
+}
+
+article{
+	float: left;
+	width: 50%;
+}
+
+body{
+	background-color: lightblue;
+}
+
+#Login{
+	background-color: lightgreen;
+}
+
+hr{
+margin-top: 2%;
+}
+
+div{
+	float: right;
+}

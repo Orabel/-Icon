@@ -1,0 +1,17 @@
+body{
+	background-image:url(App3.jpeg);
+}
+
+div{
+	background-color: blck;
+	opacity: 85%;
+	font-family:cursive ;
+	font-style:oblique ;
+	color: white;
+}
+
+button{
+		font-family:cursive ;
+	font-style:oblique ;
+	color: white;
+}
